@@ -14,3 +14,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DoanCongQui&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=DoanCongQui&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
