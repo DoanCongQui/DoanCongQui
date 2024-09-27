@@ -1,13 +1,16 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" /> <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Doan+Cong+Qui!;" /> </h1> <h3 align="center">A passionate software developer from Vietnam 🇻🇳</h3> <br/> <div align="center">
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054153079669) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@oancongqui9003/featured) 
+🔭 I’m currently working on an online marketplace
 
-## 🛠 Languages and Tools
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+🌱 I’m currently learning Docker, Supabase, AWS
 
+💬 Ask me about Node.js, React, Firebase... or anything here
 
-![](https://github-readme-stats.vercel.app/api?username=DoanCongQui&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DoanCongQui&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DoanCongQui&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
+</div> <div align="center"> <a href="mailto:doancongqui@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> </a> <a href="https://linkedin.com/in/doancongqui" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /> </a> <a href="https://doancongqui.github.io" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> </a> </div> <hr/> <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2> <br/> <div align="center"> <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,cpp" /> <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br> </div> <br/> <hr/> <div align="center"> <h2>🐍 My Contributions 🐍</h2> <br> <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/DoanCongQui/DoanCongQui/output/github-contribution-grid-snake.svg" />
 
+<br/><br/><br/>
+</div> <hr/> <h2 align="center">⚡ Stats ⚡</h2> <br> <div align=center> <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=DoanCongQui&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=DoanCongQui&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> <br/> <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=DoanCongQui&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> </div>
 
+<br/><br/>
+<hr/>
