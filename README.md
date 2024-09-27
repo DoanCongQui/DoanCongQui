@@ -37,7 +37,6 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,java" />
 <br> 
 </div> 
-<hr/><hr/>
 <br/> 
 
 <h2 align="center">⚡ Stats ⚡</h2> 
