@@ -8,13 +8,12 @@
 <br/> 
 
 <div align="center">
- 🔭 I’m currently working on **an IoT system for monitoring**
+ 🔭 I’m currently working on **an autonomous vehicle system**
  
  🌱 I’m currently learning **Cuda, ML, Linux**
  
  💬 Ask me about **C, C++, Python... or anything [here](https://github.com/DoanCongQui/DoanCongQui/issues)**
 
- ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 </div> 
 
 <div align="center"> 
