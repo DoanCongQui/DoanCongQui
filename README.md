@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Cuda, ML, Linux**
  
- 💬 Ask me about **C,C**,Python... or anything [here](https://github.com/DoanCongQui/DoanCongQui/issues)**
+ 💬 Ask me about **C, C++, Python... or anything [here](https://github.com/DoanCongQui/DoanCongQui/issues)**
 
  ⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 </div> 
