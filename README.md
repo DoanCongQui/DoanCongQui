@@ -1,11 +1,33 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DoanCongQui.DoanCongQui" /> 
+<h1 align="left">Hey 👋 I'm Quis</h1>
 
-<h1 align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quis!;" /> 
-</h1> 
+###
 
-<h3 align="center">A passionate embedded developer from Vietnam 🇻🇳</h3> 
-<br/> 
+<p align="left">I am an Embedded Developer experienced in Embedded Linux (kernel/drivers) and FPGA frontend design using Quartus and Vivado.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
+
+###
+
+<p align="left">
+  🔧 I’m currently working on Embedded Systems / Edge AI Projects<br>
+  🧠 I’m currently learning Linux Kernel Development & Device Drivers<br>
+  🐧 I’m experienced with Embedded Linux (Yocto / Buildroot / Raspberry Pi / NVIDIA Jetson /ARM SoC)<br>
+  ⚙️ Ask me about Kernel Modules, GPIO/I2C/SPI/UART, RTOS, and Low-level Debugging<br>
+  🧩 I also work with FPGA Frontend Design (Intel Quartus / Xilinx Vivado)<br>
+  🔬 Interested in Hardware–Software Co-Design & Performance Optimization<br>
+  📫 How to reach me: congt4644@gmail.com
+</p>
+
+
+###
+
+<h2 align="left">Skills</h2>
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
@@ -31,6 +53,10 @@
 
 ###
 
+<h2 align="left">Media</h2>
+
+### 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
@@ -38,6 +64,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
+
+###
+
+<h2 align="left">Contribution</h2>
 
 ###
 
