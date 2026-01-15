@@ -8,8 +8,9 @@
 
 <h2 align="left">About me</h2>
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  />
+<!-- <img align="right" height="150" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif"  /> -->
 
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnI2ZjFnNDNmdnAxbXdqcnhoNHM1azBzN2I5NWo4Znlzd3M1cm9pMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ou1ytiu4id32hdT08b/giphy.gif"  />
 ###
 
 <p align="left">
@@ -78,7 +79,7 @@
   <a href="https://www.linkedin.com/in/quis-d-a716a0380/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://discord.gg/qui0611" target="_blank" rel="noreferrer">
+  <a href="https://discord.com/channels/@qui0611" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
   </a>
   <a href="https://x.com/doan_cong_qui" target="_blank" rel="noreferrer">
