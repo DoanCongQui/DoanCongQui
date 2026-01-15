@@ -1,3 +1,12 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DoanCongQui.DoanCongQui" /> 
+
+<h1 align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quis!;" /> 
+</h1> 
+
+<h3 align="center">A passionate embedded developer from Vietnam 🇻🇳</h3> 
+<br/> 
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
   <img width="12" />
@@ -44,4 +53,4 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
+<hr/>
